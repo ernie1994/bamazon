@@ -1,1 +1,3 @@
 # bamazon
+
+![](bamazon.gif)
